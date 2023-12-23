@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703322858142,
+      "tag": "0000_rich_zuras",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703324332872,
+      "tag": "0001_wealthy_silver_surfer",
+      "breakpoints": true
+    }
+  ]
+}
